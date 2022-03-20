@@ -1,0 +1,64 @@
+body {
+  background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+}
+h1 {
+  color: #f76b8a;
+  font-size: 22px;
+  line-height: 26px;
+  margin-bottom: 0%;
+  padding: 0;
+}
+
+.weather-app {
+  border: solid #66bfbf;
+  background-color: #fcfefe;
+  padding: 20px;
+  margin: 30px auto;
+  max-width: 600px;
+  border-radius: 10px;
+}
+.weather-search {
+  margin-bottom: 20px;
+}
+.today {
+  color: #70757a;
+  font-size: 16px;
+  line-height: 20px;
+  padding: 0px;
+  margin: 0 0 10px;
+}
+.weather-icon {
+  font-size: 50px;
+  margin-right: 20px;
+}
+.units {
+  position: relative;
+  top: -23px;
+}
+li {
+  color: #70757a;
+  font-size: 16px;
+  line-height: 20px;
+  list-style: none;
+}
+.days {
+  color: #66bfbf;
+  font-weight: bold;
+}
+.emojis {
+  margin-top: 10px;
+  font-size: 50px;
+}
+#temperature {
+  font-family: Google Sans, arial, sans-serif;
+  font-weight: 400;
+  font-size: 50px;
+}
+#current-location-button {
+  background-color: #f76b8a;
+  border: solid #f76b8a;
+}
+
+#suorce-link {
+  text-align: center;
+}
